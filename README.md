@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=rounded&text=Actuallry_I_DON'T_LIKE_DONUT&animation=blink&fontSize=50)
+![header](https://capsule-render.vercel.app/api?&type=rounded&text=Actually_I_DON'T_LIKE_DONUT&animation=blink&fontSize=50)
 
 <h1 align="center">Hi 👋, I'm DOoOoOoOnut</h1>
 <h3 align="center">(Maybe) frontend developer </h3>
