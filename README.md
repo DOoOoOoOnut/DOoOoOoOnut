@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DOoOoOoOnut</h1>
 <h3 align="center">(Maybe) frontend developer </h3>
-:boom:
+:boom::boom::boom::boom::boom::boom::boom::boom::boom::boom::boom::boom::boom::boom::boom::boom:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
