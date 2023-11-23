@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DAEUN</h1>
+<h1 align="center">Hi 👋, I'm DOoOoOoOnut</h1>
 <h3 align="center">(Maybe) frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
